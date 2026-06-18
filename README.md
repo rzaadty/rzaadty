@@ -54,7 +54,3 @@
 - 📧 Email: **rezaaditya.ap19@gmail.com**
 - 📱 Telepon/WA: **+62859154971619**
 - 📍 Lokasi: **Tasikmadu, Karanganyar**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
